@@ -29,6 +29,14 @@ This is one of the group projects during my Verizon apprenticeship, a full-stack
 ### [YouTube Downloader](https://github.com/adrianbaltag/YouTube_Downloader)
 This is a Python app, and its sole purpose is to help you download YouTube videos on your PC. 
 
+## Skills
+
+- Programming Languages: JavaScript, Python
+- Web Technologies: HTML, CSS, React, Node.js
+- Databases: MongoDB, MySQL
+- Version Control: Git, GitHub
+- Other: Docker, RESTful APIs
+
 
 <!--
 **adrianbaltag/adrianbaltag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
