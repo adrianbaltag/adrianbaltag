@@ -1,4 +1,13 @@
-### Hi there 👋
+# My Portfolio 
+
+## Hi there 👋 and welcome to my portfolio repo!
+
+Hello! I'm Adrian, a dedicated Network Operations Engineer at Verizon. In the summer of 2023, I successfully graduated from the Fullstack Software Engineer Apprenticeship program at Verizon, where I honed my skills in web development.
+Curious by nature, I always try to learn and be on top of the latest technologies and skills needed within the Web Dev world, just because I love what I do, and I believe in the power of continuous improvement. Whether it's exploring new programming languages, frameworks, or design principles, I'm always eager to expand my knowledge and push myself to grow as a developer.
+Witnessing my work come to life and its positive impacts on users bring me immense joy. While I have a special passion for Python, I also find great satisfaction in frontend development and design, and also constructing full stack applications.
+
+Thank you for your valuable time, and I hope you will enjoy exploring some of the projects in my portfolio.😁
+
 
 <!--
 **adrianbaltag/adrianbaltag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
